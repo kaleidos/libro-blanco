@@ -30,12 +30,13 @@ nav {
   left: 0;
   top: 0;
   &::-webkit-scrollbar { width: 0 !important }
+  ul {
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+  }
 }
 
-ul {
-  padding-top: 1rem;
-  padding-bottom: 5rem;
-}
+
 
 header {
   background: #313131;
