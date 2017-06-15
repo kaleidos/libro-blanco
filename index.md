@@ -1,7 +1,3 @@
-El libro blanco de Kaleidos (2017)
-
-[[TOC]]
-
 # Prefacio
 
 *«Era 2011, y hacía mucho frío ahí **fuera»*
@@ -67,9 +63,7 @@ Un gran poder conlleva una gran **responsabilidad**. En Kaleidos creemos que las
 El bienestar de los equipos hace que a veces tengamos que sacrificar en parte el deseo particular en beneficio del global, entendiendo esta renuncia no como un sacrificio sino como una inversión que sólo tiene sentido si el bienestar global también favorece al individuo.
 
 * Queremos poder hacer mejoras solidarias en el entorno que además puedan mejorar indirectamente nuestra situación individual.
-
 * En Kaleidos rechazamos la ética del sacrificio (morir por un ideal) y no creemos en el concepto de *sacrificio absoluto*.
-
 * Cuando cedemos en algo tiene que ser por voluntad propia y no por una imposición externa, la estructura es horizontal y tenemos libertad para gestionarnos.
 
 A veces la responsabilidad se debe ejercer desde el equipo hacia el individuo. Queremos evitar que nuestros *yoes* futuros se arrepientan de no haber dicho nada hoy. En Kaleidos, exigir que mi entorno cumpla sus compromisos se considera responsable. Aunque a veces sea duro tenemos que ser capaces de decir que no a otras personas o de hacerles ver sus responsabilidades y cómo impactan en el resto sus decisiones. Los WTA’s (Working Team Agreements) por proyecto nos ayudan mucho en este aspecto. Tenemos que ser valientes y evitar que el respeto mal entendido con el equipo o con los clientes nos lleve a la hipocresía, a no decir que no públicamente o a hacerlo sólo en petit comité.
@@ -85,8 +79,6 @@ En Kaleidos buscamos que haya siempre una comunicación abierta en todos los sen
 En Kaleidos sabemos que el "context switching" afecta directamente a la calidad de nuestro trabajo, a nuestra felicidad y a nuestra motivación. Por lo tanto intentamos que cada Kaleider esté en un único proyecto en cada momento. Aunque la realidad es que sólo tenemos un diseñador y 2 UX para tres equipos, así que a ellos les toca muchas veces estar dividiendo su tiempo entre dos equipos, aunque esa división tratamos de que no sea a nivel diario sino semanal o por sprint.
 
 Ya que en general estamos solo en un proyecto, vimos que es inoperativo y puede llegar a ser frustrante el tener que imputar horas; es una microgestión innecesaria.
-
-
 
 También nos esforzamos en ser realistas con la carga de trabajo; nuestro valor no está en resolver proyectos a toda costa y quemarnos en el camino; en cambio, está en equipos cohesionados, técnicamente muy capaces e implicados en los proyectos.
 
@@ -127,9 +119,7 @@ Puedes teletrabajar hasta un máximo de tres días a la semana, repartidos de ma
 Como el hecho de no ver al resto de kaleiders afecta en las relaciones personales, estamos tratando de buscar vías para que el teletrabajo no penalice las relaciones humanas:
 
 * Los lunes todos los kaleiders trabajan de forma presencial en la oficina
-
 * Intentamos desayunar todos juntos los lunes
-
 * Hay organizadas actividades presenciales que ayudan, como las clases de inglés, las sesiones de juegos de mesa/rol, el paddle...
 
 **HOWTO**
@@ -139,21 +129,15 @@ Debes acordar con tu equipo los días que te gustaría teletrabajar cada semana,
 **Espíritu**
 
 * Libertad
-
 * Conciliación
-
 * Mucho más tiempo libre
-
 * Favorece el tema ecológico (los desplazamientos tienen huella)
-
 * Mejora la productividad de ciertas tareas, aunque puede no ser buena para la productividad del conjunto
 
 **Problemas**
 
 * Cuando trabajas en remoto, es muy difícil que tengas contacto con kaleiders que no estén en tu equipo. En la oficina ves a la gente de fuera de tu equipo.
-
 * Queremos trabajar con seres humanos, y tener relaciones interpersonales con ellos. No nos gusta la sensación de trabajar con una persona aleatoria de internet.
-
 * Trabajar en la oficina puede reducir mi productividad individual pero puedo compartir/intercambiar conocimiento con el resto aumentado la productividad colectiva.
 
 ## Horario de coincidencia
@@ -169,9 +153,7 @@ Cada día puedes decidir hacer un horario diferente, siempre y cuando tu equipo 
 **Espíritu**
 
 * Conciliación familiar
-
 * Flexibilizar el horario garantizando un espacio común de comunicación.
-
 * Tener la certeza de que a ciertas horas puedes contar con personas de Kaleidos
 
 **Problemas**
@@ -191,11 +173,8 @@ En esta modalidad, se trabajan 8h todos los días laborables.
 En esta modalidad, se trabaja un número de horas variable:
 
 * Los días "normales" 8h y media
-
 * Los viernes 7h
-
 * Los días antes de un festivo: 7h
-
 * Durante los dos meses de jornada de verano (a elegir entre abril y septiembre inclusive): 7h
 
 Sea como sea, en Kaleidos odiamos el concepto de "calentar la silla", por lo que no hay ningún problema en irte un rato antes si tienes un mal día, o quedarte un rato más si estás inspirado.
@@ -209,7 +188,6 @@ A principio de año, si quieres cambiar de tipo de jornada, envía un email a Tr
 **Espíritu**
 
 * Conciliación familiar
-
 * Flexibilizar el horario
 
 ## Cita médica y otras incidencias
@@ -225,7 +203,6 @@ Si traes un justificante médico o similar, entrégalo en administración.
 **Espíritu**
 
 * Conciliación familiar
-
 * Flexibilizar el horario
 
 ## Soberanía de los equipos
@@ -237,15 +214,12 @@ TODO: Especificar qué decisiones no corresponden al equipo y cuáles sí
 **Espíritu**
 
 * Para poder ser responsable de sus resultados y responder ante lo que he hecho tengo que haber decidido cómo hacerlo.
-
 * Hay decisiones de "big picture" para las que el equipo puede no tener toda la información. Por ejemplo “continuar o no un mes un proyecto”, el equipo tiene que tener toda la información pero la decisión puede tener que depender no sólo del equipo.
-
 * No romper el espíritu de Kaleidos
 
 **Problemas**
 
 * Incompatibilidad entre decisiones de equipos: el equipo A decide una cosa y el equipo B decide otra que son incompatibles a nivel global. Por ejemplo el equipo A decide que el día que van todas a la oficina es el lunes, el B el viernes, Kaleidos lo que quiere como grupo es que todo el mundo se vea al menos una vez en semana.
-
 * A veces el cliente no cree en el equipo soberano y busca "al jefe" y a veces nos escudamos en él. Si no visibilizamos su soberanía desde el principio es difícil de cambiar.
 
 ## Formación
@@ -255,15 +229,10 @@ Para Kaleidos es **muy importante** la formación. En nuestro sector todo avanza
 Kaleidos intenta facilitar la formación a través de diferentes vías:
 
 * Suscripciones a diferentes servicios como safari online
-
 * Tiempo para organizar/asistir a cursos internos.
-
 * PIWEEKs
-
 * Fridays técnicos
-
 * Hay un dinero disponible (que al final siempre sobra) para formación reglada ([Fundación tripartita](http://www.fundae.es/Pages/default.aspx)).
-
 * Además hay una bolsa de tiempo y dinero disponible para formación y un máximo de diez días al año que se pueden invertir en ello (pueden ser cursos online, cursos presenciales, talleres, conferencias…). No es una bolsa económica a repartir, es una bolsa económica a administrar SABIAMENTE por Kaleidos. Ni hace falta gastársela toda ni supone un hard limit. El reparto igualitario de ese dinero facilitaría la gestión individual y quizá las expectativas de cada uno de nosotros pero complicaría la distribución más inteligente de ese dinero atendiendo a las necesidades como empresa/grupo.
 
 **HOWTO**
@@ -305,9 +274,7 @@ No utilices software propietario. Si tienes necesidad de utilizar un programa pr
 **Espíritu**
 
 * Ser consecuentes con el espíritu de Kaleidos
-
 * Kaleidos DEBE contribuir a la comunidad
-
 * Favorecer que todo Kaleidos pueda colaborar
 
 **Problema**
@@ -327,7 +294,6 @@ Si necesitas mantener una conversación en voz alta durante un tiempo razonable,
 **Espíritu**
 
 * No romper la concentración.
-
 * No alienar a las personas sensibles al ruido.
 
 ## Apertura y cierre de la oficina
@@ -345,14 +311,13 @@ Si no tienes llaves propias, siempre hay dos juegos de llaves en la oficina. Si 
 **Espíritu**
 
 * Ser un poco más sostenibles energéticamente.
-
 * Evitar que Kaleidos se quede abierto sin nadie.
 
 # Eventos en Kaleidos
 
-## KYSMOW
+## KYSMOW (Kaleidos Yearly Salary Meeting Or Whatever)
 
-«Kaleidos Yearly Salary Meeting Or Whatever». Lo que popularmente se conoce como "revisión salarial" pero que es algo bastante más complejo porque se habla de muchos otros temas, se valora el trabajo, se analizan posibles problemas, se pregunta por temas aspiracionales (reducción de jornada, por ejemplo), etc.
+Lo que popularmente se conoce como "revisión salarial" pero que es algo bastante más complejo porque se habla de muchos otros temas, se valora el trabajo, se analizan posibles problemas, se pregunta por temas aspiracionales (reducción de jornada, por ejemplo), etc.
 
 El formato es una charla con trípode (o una pareja si los 3 es imposible), en la que dedicar un rato para hacer un balance del año pasado y hablar de éste. Se intentan hacer a principio de año pero pueden durar unos meses (nos gusta dedicarles tiempo de calidad). Las posibles actualizaciones sobre salarios se hacen retroactivas al año en curso.
 
@@ -363,19 +328,18 @@ Se convocará una reunión (presencial a ser posible) para esto. Suele ser a fin
 **Espíritu**
 
 * Garantizar que hay un espacio en el que hacer balance de cómo ha ido el año.
-
 * Hablar de manera más personal con cada integrante de Kaleidos.
 
-## KOSDEM
 
-«Kaleidos OpenSpace Define and Embrace Meeting». Es un evento de dos días de duración (jueves/viernes) para toda la empresa, se suele organizar en una casa/hotel rural cercano a Madrid durante los primeros meses del año. Es una reunión de trabajo para definir y comprometernos con la pinta que queremos que tenga el año en Kaleidos para todos nosotros. Se trata también de poner encima de la mesa tanto objetivos cualitativos como cuantitativos y sacar unas conclusiones sobre el año anterior. El resultado va directo al Consejo de Administración en donde se valida la estrategia de Kaleidos.  Por supuesto hay un montón de tiempo libre y de esparcimiento para disfrutar del equipo y del entorno.
+## KOSDEM (Kaleidos OpenSpace Define and Embrace Meeting)
+
+Es un evento de dos días de duración (jueves/viernes) para toda la empresa, se suele organizar en una casa/hotel rural cercano a Madrid durante los primeros meses del año. Es una reunión de trabajo para definir y comprometernos con la pinta que queremos que tenga el año en Kaleidos para todos nosotros. Se trata también de poner encima de la mesa tanto objetivos cualitativos como cuantitativos y sacar unas conclusiones sobre el año anterior. El resultado va directo al Consejo de Administración en donde se valida la estrategia de Kaleidos.  Por supuesto hay un montón de tiempo libre y de esparcimiento para disfrutar del equipo y del entorno.
 
 El KOSDEM es con seguridad el órgano más soberano y con mayor influencia en el desarrollo de Kaleidos cada año.
 
 **Espíritu**
 
 * Creemos que puede ser muy beneficioso romper la rutina para este reseteo mental porque es importante que todo el mundo estemos con el foco puesto en estas sesiones de trabajo.
-
 * Aparte, cualquier excusa para pasárnoslo bien es bienvenida.
 
 ## Piweek
@@ -397,9 +361,7 @@ Página web: [https://piweek.com/](https://piweek.com/)
 **Espíritu**
 
 * Asegurar que reservamos tiempo de calidad para la innovación.
-
 * Tener impacto invitado a otras empresas o personas que quieran participar.
-
 * Crear producto propio o incluso empresa propia con participación de kaleiders.
 
 ## KAFETON (KAleidos Friday Event Technical Or Not)
@@ -408,42 +370,26 @@ Todos los viernes a las 14:00 habrá una charla organizada por Kaleiders, el con
 
 Todo el mundo da un viernes técnico al año. Crearemos un calendario compartido para que no se pierdan las propuestas y para hacer un poco de fuerza a los compromisos.
 
-Doc compartido: https://docs.google.com/spreadsheets/d/1KGf6S6WOqam_zTk6AZOhCmKHnE2nb-Sn4acS4H8riLU/edit#gid=0
+Doc compartido: [Listado de Kafetones](https://docs.google.com/spreadsheets/d/1KGf6S6WOqam_zTk6AZOhCmKHnE2nb-Sn4acS4H8riLU/edit?usp=sharing)
 
 **Espíritu**
 
-* La idea es compartir algo, puede ser informal y no sesudo, no tiene porqué requerir meses de preparación.
-
+* La idea es compartir algo, puede ser informal y no sesudo, no tiene por qué requerir meses de preparación.
 * Generar experiencia hablando en público en un ambiente distendido y amistoso.
 
-## KATAM
-
-«KAleidos Team Activity Monthly»
+## KATAM (KAleidos Team Activity Monthly)
 
 FAQ del Katam
 
-<table>
-  <tr>
-    <td>¿QUÉ ES KATAM?: El primer sábado de cada mes los kaleiders que quieran realizarán juntos una actividad molona incentivada por Kaleidos.
-
-¿QUÉ SE ENTIENDE POR MOLONA?: Sobre la mesa hay ejemplos como cine, bolos, curso de arco, patinaje sobre hielo.
-
-¿QUÉ SE ENTIENDE POR INCENTIVADA?: Para cada KATAM, Kaleidos financiará 100€ del coste total de la actividad. Por ejemplo, si se van 15 personas al cine, y el coste total son 150€, Kaleidos invita a 100€, por lo que sólo habría que pagar a escote los 50€ restantes.
-
-¿ES OBLIGATORIO ASISTIR?: No, pero estaría guay vernos más en un ambiente de ocio.
-
-¿PUEDE VENIR MI PAREJA?: Sí, pueden asistir parejas, y también participarán en el incentivo.
-
-¿PUEDEN VENIR MIS HIJOS?: Si la actividad lo permite (el rafting extremo no lo permitiría, por ejemplo), pueden asistir descendientes, y también participarán en el incentivo.
-
-¿PUEDEN VENIR MIS PRIMOS?: Tampoco te pases... La excepción es que tu primo trabaje en Kaleidos, que entonces sí puede.
-
-¿SE PUEDE CAMBIAR DE DÍA SI NO ME VIENE BIEN EL PRIMER SÁBADO DE CADA MES?: Queremos evitar doodles interminables todo el rato, ya gestionamos demasiadas fechas, así que en la medida de lo posible intentaremos dejar fijo el primer sábado de cada mes.
-
-¿Y SI ESE SÁBADO ES PUENTE?: Vale, cuando sea puente, será el segundo sábado.</td>
-  </tr>
-</table>
-
+* ¿QUÉ ES KATAM?: El primer sábado de cada mes los kaleiders que quieran realizarán juntos una actividad molona incentivada por Kaleidos.
+* ¿QUÉ SE ENTIENDE POR MOLONA?: Sobre la mesa hay ejemplos como cine, bolos, curso de arco, patinaje sobre hielo.
+* ¿QUÉ SE ENTIENDE POR INCENTIVADA?: Para cada KATAM, Kaleidos financiará 100€ del coste total de la actividad. Por ejemplo, si se van 15 personas al cine, y el coste total son 150€, Kaleidos invita a 100€, por lo que sólo habría que pagar a escote los 50€ restantes.
+* ¿ES OBLIGATORIO ASISTIR?: No, pero estaría guay vernos más en un ambiente de ocio.
+* ¿PUEDE VENIR MI PAREJA?: Sí, pueden asistir parejas, y también participarán en el incentivo.
+* ¿PUEDEN VENIR MIS HIJOS?: Si la actividad lo permite (el rafting extremo no lo permitiría, por ejemplo), pueden asistir descendientes, y también participarán en el incentivo.
+* ¿PUEDEN VENIR MIS PRIMOS?: Tampoco te pases... La excepción es que tu primo trabaje en Kaleidos, que entonces sí puede.
+* ¿SE PUEDE CAMBIAR DE DÍA SI NO ME VIENE BIEN EL PRIMER SÁBADO DE CADA MES?: Queremos evitar doodles interminables todo el rato, ya gestionamos demasiadas fechas, así que en la medida de lo posible intentaremos dejar fijo el primer sábado de cada mes.
+* ¿Y SI ESE SÁBADO ES PUENTE?: Vale, cuando sea puente, será el segundo sábado.
 
 **Espíritu**
 
@@ -460,9 +406,7 @@ Habitualmente tienen el formato de un open space, en el que se proponen temas, s
 **Espíritu**
 
 * Fomentar la relación intra-equipos.
-
 * Evitar islas de conocimientos intra-equipos.
-
 * Permear las buenas ideas, y debatir los problemas con otros compañeros que pueden aportar una visión fresca.
 
 # Otros
@@ -486,7 +430,6 @@ Si antes o durante un proyecto se vulneran las líneas rojas éticas de un kalei
 **Espíritu**
 
 * Ser fieles a nuestra ética conjunta.
-
 * Ser fieles a nuestra ética individual.
 
 ## Conferencias y congresos
@@ -524,14 +467,13 @@ Hay obligación de traer pastelitos, tortillas, o viandas de tu elección a la o
 **Espíritu**
 
 * Fomentar la relación humana entre kaleiders.
-
 * Comer cosas ricas.
 
 # Actividades extraescolares kaleiders
 
-## CLECK
+## CLECK (Club de LECtura Kaleider)
 
-«Club de LECtura Kaleider». Unos cuantos kaleiders se han organizado en un club de lectura, dónde deciden un libro para leer cada mes, y luego se juntan a desayunar o comer juntos y debatirlo.
+Unos cuantos kaleiders se han organizado en un club de lectura, dónde deciden un libro para leer cada mes, y luego se juntan a desayunar o comer juntos y debatirlo.
 
 Este es el documento que usamos para organizarnos:
 
@@ -539,7 +481,7 @@ Este es el documento que usamos para organizarnos:
 
 ## Weekly de innovación
 
-Todos los miércoles de 12 a 12:30 hay una reunión no presencial en mumble dónde la gente comenta los proyectos personales, estudios, y áreas de interés a los que está dedicando tiempo esa semana.
+Todos los miércoles de 12 a 12:30 hay una reunión no presencial en mumble donde la gente comenta los proyectos personales, estudios, y áreas de interés a los que está dedicando tiempo esa semana.
 
 En esta carpeta vamos colgando documentos con el resumen de lo que ha visto cada cual, para tener la referencia por si algún día necesitamos hablar con alguien "que sepa de XXX":
 
@@ -559,7 +501,7 @@ De forma poco regular, muchas semanas se organizan partidos de pádel a la hora 
 
 ## Tiro con arco
 
-La mitad de los kaleiders han hecho el curso de iniciación a tiro con arco, y algunos se han aficionado a este deporte. Algunos fines de semana se organizan excursiones a un club de tiro para practicar juntos.
+La mitad de los kaleiders han hecho el curso de iniciación a tiro con arco (en su modalidad Bosque o 3D), y algunos se han aficionado a este deporte. Algunos fines de semana se organizan excursiones a un club de tiro para practicar juntos.
 
 ## Juegos de mesa
 
@@ -572,4 +514,3 @@ Actualmente hay una partida de rol mensual en curso al juego Scarred Lands.
 ## Videojuegos online
 
 De vez en cuando se organizan partidas online los fines de semana entre los kaleiders aficionados a los videojuegos.
-
