@@ -16,6 +16,17 @@ nav {
   margin-top: -40px;
 }
 
+header {
+  .title {
+    display: flex;
+    justify-content: center;
+  }
+  img {
+    height: 60px;
+    width: 60px;
+    margin-right: 1rem;
+  }
+}
 .top-animation-wrapper {
     overflow: hidden;
     width: 100%;

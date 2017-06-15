@@ -19,10 +19,12 @@
 
   <header>
     <div class="title">
-      <img src="/assets/icon.svg" border="0">
-      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <img src="assets/icon.svg" border="0">
+      <div class="text">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+      </div>
     </div>
-    <p>{{ site.description | default: site.github.project_tagline }}</p>
     <div class="top-animation-wrapper">
       <div class="square username1"></div>
       <div class="square username2"></div>
