@@ -1,7 +1,6 @@
 # Prefacio
 
-*«Era 2011, y hacía mucho frío ahí **fuera»*
-
+*«Era 2011, y hacía mucho frío ahí fuera»*
 Pablo Ruiz, CEO
 
 En Kaleidos estamos muy orgullosos de cómo hacemos las cosas. Cuando fundamos la compañía creamos un documento compartido llamado WTF con más de 80 ideas, y desde entonces hemos conseguido hacer realidad la mayoría de ellas.
