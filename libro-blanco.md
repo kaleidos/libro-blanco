@@ -1,3 +1,0 @@
-Libro blanco de Kaleidos
-========================
-
