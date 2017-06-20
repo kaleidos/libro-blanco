@@ -223,16 +223,30 @@ TODO: Especificar qué decisiones no corresponden al equipo y cuáles sí
 
 ## Formación
 
-Para Kaleidos es **muy importante** la formación. En nuestro sector todo avanza muy rápido, y es muy complicado estar al día, pero debemos hacer todo lo posible, y Kaleidos va a facilitarlo al máximo.
+Para Kaleidos **la formación es crucial**. En nuestro sector todo avanza muy rápido, y es muy complicado estar al día, pero debemos hacer todo lo posible, y Kaleidos va a facilitarlo al máximo. La idea más importante es que la formación es prioritaria, y que entendemos que hay muchas vías para la formación; además de las vías más típicas (conferencias, cursos), sabemos que hay otras, que sencillamente no se nos han ocurrido. Si algún kaleider tiene una nueva idea de formación, nos encantará conocerla y probarla. Aparte, la formación no tiene que ser exclusivamente técnica o relativa al *job description*; nuestro trabajo diario requiere de más habilidades y siempre es una buena noticia reforzar o actualizar otros conocimientos.
 
-Kaleidos intenta facilitar la formación a través de diferentes vías:
+Esta es una lista de las vías de formación que actualmente usamos en Kaleidos:
 
-* Suscripciones a diferentes servicios como safari online
-* Tiempo para organizar/asistir a cursos internos.
-* PIWEEKs
-* Fridays técnicos
-* Hay un dinero disponible (que al final siempre sobra) para formación reglada ([Fundación tripartita](http://www.fundae.es/Pages/default.aspx)).
-* Además hay una bolsa de tiempo y dinero disponible para formación y un máximo de diez días al año que se pueden invertir en ello (pueden ser cursos online, cursos presenciales, talleres, conferencias…). No es una bolsa económica a repartir, es una bolsa económica a administrar SABIAMENTE por Kaleidos. Ni hace falta gastársela toda ni supone un hard limit. El reparto igualitario de ese dinero facilitaría la gestión individual y quizá las expectativas de cada uno de nosotros pero complicaría la distribución más inteligente de ese dinero atendiendo a las necesidades como empresa/grupo.
+* **Bolsa de formación**: Hay una bolsa de dinero disponible para formación y diez días al año que se pueden invertir en ello (pueden ser cursos online, cursos presenciales, talleres, conferencias...). No es una bolsa económica a repartir, es una bolsa económica a administrar sabiamente por Kaleidos. Ni hace falta gastársela toda ni supone un *hard limit*. El reparto igualitario de ese dinero facilita la gestión individual y quizá las expectativas de cada uno de nosotros pero complica la distribución más inteligente de ese dinero atendiendo a las necesidades como empresa/grupo.
+
+* **Suscripciones**: Kaleidos mantiene varias suscripciones en distintas plataformas. Actualmente, tenemos una suscripción con Safari Online, y también con plataformas de cursos como CodeSchool, Lynda o Egghead. Periódicamente, se revisa si una suscripción ha dejado de ser útil, o si hay otra que merece la pena probar. Estos cursos se pueden realizar en horario laboral, usando los días de formación.
+
+* **Cursos internos**: algunos compañeros se organizan para cursos internos; por ejemplo, dos compañeros de back se juntan para estudiar maquetación+css acompañados por otro compañero frontend que está de apoyo.
+
+* **PikoPiweek**: Consiste en que dos kaleiders dejan sus respectivos proyectos durante un par de días, para dedicarse al estudio intensivo de algún tema. Del mismo modo que podemos usar días para una conferencia, podemos organizarnos con otro kaleider para una formación más intensa. Las únicas condiciones son organizarnos responsablemente con los equipos implicados y asegurarnos disponer de tiempo de calidad. Por ejemplo, Tere y Andrés hicieron una [picopiweek de Nodejs](https://github.com/PIWEEK/my-little-node), con su [explicación](https://cloud.kaleidos.net/index.php/apps/files/?dir=/PIWEEK/Pico-piweeks%202017&fileid=3103)
+
+* **Desksurfing**: es una fantástica forma de aprender de otros equipos más allá de la oficina de Kaleidos. Por ejemplo, Yamila estuvo dos días aprendiendo sobre pair programming en Alea Soluciones. También hemos recibido surfers: los compañeros de Coding Stones estuvieron en Kaleidos y nos encantó.
+
+* **Desksurfing interno**: igual que podemos ir a otra empresa, un kaleider puede irse un par de días a otro proyecto, para aprender cómo trabajan en ciertos aspectos, y estar mano a mano con el proyecto.
+
+* **KAFETON**: Los viernes aprovechamos en Kaleidos para dar una charla o un taller. El ambiente es informal y los temas son totalmente abiertos: *Maquetación para backenders*, *Cómo funciona un ordenador*, *Visual thinking*, o *Economía del bien común* son algunos de los temas que se han tratado. Tenemos una sección explicando los [kafetones](#kafeton) en más profundidad.
+
+* **Formación reglada**: hay un dinero disponible (que al final nunca usamos) para formación a través de la Fundación Tripartita.
+
+* **Caso especial - clases de inglés**: Los kaleiders interesados en mejorar su nivel de inglés pueden apuntarse a los grupos de clases de inglés. Estas clases son en grupos pequeños y con un profesor nativo. Son clases de hora y media y son gratuitas, pero no computan como horas laborables.
+
+* **Otras**: otras propuestas son bienvenidas; si tienes una idea y no está en la lista es porque no se nos ha ocurrido aún, pero será genial que la propongas y que la probemos.
+
 
 **HOWTO**
 
@@ -243,10 +257,6 @@ Además, [este documento](https://docs.google.com/spreadsheets/d/1keSovt2APdIY4q
 **Espíritu**
 
 * La mejora continua en las habilidades de Kaleidos
-
-### Caso especial: Clases de inglés
-
-Los kaleiders interesados en mejorar su nivel de inglés pueden apuntarse a los grupos de clases de inglés. Estas clases son en grupos pequeños y con un profesor nativo. Son clases de hora y media semanal y son gratuitas, pero no computan como horas laborables.
 
 ## Software libre
 
@@ -363,7 +373,7 @@ Página web: [https://piweek.com/](https://piweek.com/)
 * Tener impacto invitado a otras empresas o personas que quieran participar.
 * Crear producto propio o incluso empresa propia con participación de kaleiders.
 
-## KAFETON (KAleidos Friday Event Technical Or Not)
+## KAFETON (KAleidos Friday Event Technical Or Not) <a id="kafeton"></a>
 
 Todos los viernes a las 14:00 habrá una charla organizada por Kaleiders, el contenido puede ser tanto técnico como no técnico. Si el viernes a las 14:00 no hay charla preparada, entonces iremos a tomar algo.
 
