@@ -39,7 +39,7 @@ Está formado por Pablo Ruiz, Alejandro Alonso, Enrique "Ricky" Posner, Rafa Gar
 
 En Kaleidos creemos firmemente en la responsabilidad personal, y en que los kaleiders somos adultos responsables, gente de fiar, y no necesitamos microgestión. Por lo tanto, la forma de trabajo es mediante equipos autoorganizados.
 
-Actualmente los 21 kaleiders estamos divididos en 3 equipos semi-permanentes, aunque con la entrada de nuevos proyectos, y atendiendo a deseos personales, los equipos van mutando en el tiempo.
+Actualmente los 22 kaleiders estamos divididos en 3 equipos semi-permanentes, aunque con la entrada de nuevos proyectos, y atendiendo a deseos personales, los equipos van mutando en el tiempo.
 
 Idealmente, en un equipo hay personas de todos los perfiles (UX, diseño, front y back).
 
