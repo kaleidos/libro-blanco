@@ -67,6 +67,15 @@ El bienestar de los equipos hace que a veces tengamos que sacrificar en parte el
 
 A veces la responsabilidad se debe ejercer desde el equipo hacia el individuo. Queremos evitar que nuestros *yoes* futuros se arrepientan de no haber dicho nada hoy. En Kaleidos, exigir que mi entorno cumpla sus compromisos se considera responsable. Aunque a veces sea duro tenemos que ser capaces de decir que no a otras personas o de hacerles ver sus responsabilidades y cómo impactan en el resto sus decisiones. Los WTA’s (Working Team Agreements) por proyecto nos ayudan mucho en este aspecto. Tenemos que ser valientes y evitar que el respeto mal entendido con el equipo o con los clientes nos lleve a la hipocresía, a no decir que no públicamente o a hacerlo sólo en petit comité.
 
+## Formación de equipos
+
+A la hora de formar equipos en Kaleidos se tienen en cuenta diferentes aspectos:
+
+* Equilibrio de habilidades técnicas: que el equipo pueda abarcar todas las áreas del proyecto (UI/Back/Front/sistemas/extras...)
+* Equilibrio de habilidades no técnicas: contención, empatía, sangre fría, explicitación de posibles problemas...
+* Garantizar la capacidad de autogestión del equipo
+* Interés manifiesto de las personas por trabajar juntas (recogido en anteriores KYSMOWS)
+
 ## Canales de comunicación
 
 En Kaleidos buscamos que haya siempre una comunicación abierta en todos los sentidos. Para cualquier duda, tanto Trípode como otro compañero van a poder ayudarte. No hay preguntas inadecuadas, ni las ideas se desechan sin estudiarlas. Hacemos lo posible para que todo el mundo haga oír su voz.
