@@ -1,3 +1,5 @@
+**NOTA:** Esta es la antigua versión del libro blanco, puedes revisar la versión más actualizada en http://libro-blanco.kaleidos.net/ 
+
 # Prefacio
 
 *«Era 2011, y hacía mucho frío ahí fuera»*
